@@ -9,7 +9,7 @@ resource "aws_s3_bucket" "sensitive_data_bucket" {
 
   tags = {
     Environment = "Dev"
-    Project     = "Merlin2"
+    Project     = "Merlin3"
   }
 }
 
