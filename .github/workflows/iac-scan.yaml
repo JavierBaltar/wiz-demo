@@ -1,4 +1,6 @@
 name: "wiz-cli"
+on:
+  push
 
 jobs:
   wiz-cli-iac-scan:
